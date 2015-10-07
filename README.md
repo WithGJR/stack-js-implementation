@@ -15,7 +15,7 @@ var stack = new Stack(3); // Specify the size of this stack equals to 3
 
 ### pop
 
-Pop the top-most element of the stack. If there are no more element available, this method will return `null`.
+Pop the top-most element of the stack. If there are no more element available, this method will return `undefined`.
 
 ``` javascript
 stack.pop();
@@ -31,5 +31,5 @@ stack.push({title: "hello"});
 
 stack.pop(); // return {title: "hello"}
 stack.pop(); // return 3
-stack.pop(); // return null
+stack.pop(); // return undefined
 ```
