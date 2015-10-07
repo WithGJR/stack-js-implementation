@@ -1,6 +1,6 @@
 {
   "name": "stack-js-implementation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's a stack data structure implemented in Javascript.",
   "main": "index.js",
   "repository": {
